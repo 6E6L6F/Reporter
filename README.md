@@ -10,7 +10,7 @@
         
         4) cd Reporter
         
-        5) python3 Repoter_Telegram.py
+        5) python3 Reporter_Telegram.py
     
     
     Windows..!
